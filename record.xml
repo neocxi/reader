@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<call>
+<methodName>MethodName</methodName>
+<parameters>param param</parameters>
+<startTime>11:11.112312AM</startTime>
+<endTime>12:31.2213PM</endTime>
+<returnValue>22</returnValue>
+<threadId>323</threadId>
+</call>

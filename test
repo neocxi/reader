@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<history>
+<call>
+<methodName>testMethod</methodName>
+<parameters>pa1, pa2</parameters>
+<startTime>2013/05/12 21:37:51</startTime>
+<endTime>2013/05/12 21:37:51</endTime>
+<returnValue>rett</returnValue>
+<threadId>0</threadId>
+</call>
+<call>
+<methodName>testMethod</methodName>
+<parameters>pa1, pa2</parameters>
+<startTime>2013/05/12 21:37:51</startTime>
+<endTime>2013/05/12 21:37:51</endTime>
+<returnValue>rett</returnValue>
+<threadId>0</threadId>
+</call>
+<call>
+<methodName>test2</methodName>
+<parameters>other</parameters>
+<startTime>2013/05/12 21:37:51</startTime>
+<endTime>2013/05/12 21:37:51</endTime>
+<returnValue>another retval</returnValue>
+<threadId>0</threadId>
+</call>
+</history>
