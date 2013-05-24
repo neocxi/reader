@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<history>
+<call>
+<methodName>KVCache#put(String,String)</methodName>
+<parameters>someKey,someNewVal</parameters>
+<startTime>2013/05/15 21:38:44</startTime>
+<endTime>2013/05/15 21:38:44</endTime>
+<returnValue>void</returnValue>
+<threadId>0</threadId>
+</call>
+<call>
+<methodName>KVStore#put(String,String)</methodName>
+<parameters>someKey,someNewVal</parameters>
+<startTime>2013/05/15 21:38:44</startTime>
+<endTime>2013/05/15 21:38:44</endTime>
+<returnValue>void</returnValue>
+<threadId>0</threadId>
+</call>
+</history>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<history>
+<call>
+<methodName>KVCache#get(String)</methodName>
+<parameters>someKey</parameters>
+<startTime>2013/05/15 21:38:44</startTime>
+<endTime>2013/05/15 21:38:44</endTime>
+<returnValue>someValue</returnValue>
+<threadId>0</threadId>
+</call>
+</history>
